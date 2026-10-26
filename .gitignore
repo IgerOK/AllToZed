@@ -1,0 +1,6 @@
+# AllToZed L1: локальные заметки, не в git
+.notes/
+
+# OS
+Thumbs.db
+desktop.ini
